@@ -1,3 +1,7 @@
 ﻿# Git PR Collaboration Demo
 
-A small demo repository for practicing branches, pull requests, review, and merge.
+- ## Greeting
+
+  - Hello from B. This section demonstrates the pull-request review workflow.
+  - Contributor: dddjj1
+
