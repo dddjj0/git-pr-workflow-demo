@@ -1,6 +1,7 @@
 ﻿# Git PR Collaboration Demo
 
-## Greeting
+- ## Greeting
 
-- Hello from B.
+  - Hello from B. This section demonstrates the pull-request review workflow.
+  - Contributor: dddjj1
 
